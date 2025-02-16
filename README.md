@@ -20,12 +20,6 @@ A Verilog-based **Complex Number Multiplier** that computes the product of two c
 ## Installation
 Please make sure you have a Verilog simulator like **Intel Quartus** installed.
 
-```sh
-# Clone the repository
-git clone https://github.com/your-username/complex-multiplier.git
-cd complex-multiplier
-```
-
 ## Example Input & Output
 ### Inputs:
 ```
